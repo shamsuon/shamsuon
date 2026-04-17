@@ -20,6 +20,26 @@
 
 ---
 
+---
+
+# 🌍 My Portfolio
+
+<p align="center">
+  <a href="https://portfolio-shamsuons-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-shamsuons-projects.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=120&section=header&text=Check%20Out%20My%20Work&fontSize=24&fontColor=ffffff" />
+  </a>
+</p>
+
+<p align="center">
+  💼 Explore my projects, skills, and real-world work in one place
+</p>
+
 # 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/3bdu.shams)
