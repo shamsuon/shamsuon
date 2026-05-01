@@ -1,11 +1,19 @@
-<!-- HEADER -->
+<!-- 🔥 Animated Header -->
+<h1 align="center">Hi 👋, I'm Abdulaziz Attia Shams</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Abdulaziz%20Attia%20Shams&fontSize=28&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;AI+%26+Automation+Developer;Problem+Solver;Building+Real-World+Systems&center=true&width=500&height=45">
 </p>
 
-<!-- TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+%26+Automation+Developer;Problem+Solver;Building+Real-World+Systems" />
+<h3 align="center">🚀 Turning ideas into real-world intelligent systems</h3>
+
+---
+
+<!-- 👀 Profile Views -->
+<p align="center"> 
+  <a href="https://portfolio-shamsuons-projects.vercel.app/">
+  <img src="https://komarev.com/ghpvc/?username=shamsuon&label=Profile%20views&color=0e75b6&style=flat" /> 
+  </a>
 </p>
 
 ---
@@ -17,8 +25,6 @@
 💡 Passionate about building real-world software that solves practical problems.  
 💻 Experienced with Python, C++, Java, and system-level development.  
 📚 Constantly learning, improving, and working on impactful projects.  
-
----
 
 ---
 
@@ -40,46 +46,58 @@
   💼 Explore my projects, skills, and real-world work in one place
 </p>
 
+---
+
 # 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/3bdu.shams)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3bdu_sh2ms)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-attia-abdulaziz-86a814321)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@shamsuon)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdulazizA59247)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@aicodeinglab)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulazizattiaabdulaziz@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/abdulaziz-attia-abdulaziz-86a814321"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.facebook.com/3bdu.shams"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://instagram.com/3bdu_sh2ms"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://x.com/AbdulazizA59247"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://www.youtube.com/@aicodeinglab"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+<a href="mailto:abdulazizattiaabdulaziz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart" />
+</p>
+
+### ⚙️ Frameworks & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
 # 📌 Featured Projects
 
-🚧 Smart City IoT System  
-- IoT-based smart infrastructure simulation  
-- Real-time monitoring and automation concepts  
+### 🔹 Smart City IoT System
+🌆 IoT-based smart infrastructure simulation  
+🔗 Real-time monitoring and automation concepts  
 
-🔐 Password Manager (C++)  
-- Secure local password storage system  
-- Encryption-focused implementation  
+### 🔹 Password Manager (C++)
+🔐 Secure local password storage system  
+🔗 Encryption-focused implementation  
 
-🤖 AI & Automation Experiments  
-- Python-based automation scripts  
-- Early-stage AI exploration projects  
+### 🔹 AI & Automation Experiments
+🤖 Python-based automation scripts  
+🔗 Early-stage AI exploration projects  
 
 ---
 
