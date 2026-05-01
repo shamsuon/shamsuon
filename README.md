@@ -9,10 +9,31 @@
 
 ---
 
-<!-- 👀 Profile Views -->
-<p align="center"> 
-  <a href="https://portfolio-shamsuons-projects.vercel.app/">
-  <img src="https://komarev.com/ghpvc/?username=shamsuon&label=Profile%20views&color=0e75b6&style=flat" /> 
+# 🌍 My Portfolio
+
+<p align="center">
+  <a href="https://portfolio-shamsuons-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-shamsuons-projects.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=140&section=header&text=Explore%20My%20Portfolio&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  </a>
+</p>
+
+<p align="center">
+  💼 A showcase of my projects, technical skills, AI experiments, and real-world systems
+</p>
+
+<p align="center">
+  ⚡ Built with passion for technology, automation, and impactful software development
+</p>
+
+<p align="center">
+  <a href="https://portfolio-shamsuons-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Portfolio-36BCF7?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
